@@ -3,7 +3,9 @@
     src: url("../font/FontsFree-Net-Segoe-UI.ttf");
 }
 
-
+html{
+    overflow-x: hidden;
+}
 :root {
     /* font-size */
     --fs-xs: 18px;
